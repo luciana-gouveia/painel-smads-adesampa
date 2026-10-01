@@ -211,7 +211,7 @@ O edital permite e incentiva o uso de ferramentas de inteligência artificial e 
 
 ### Ferramentas utilizadas
 
-- **PREENCHER COM O NOME DA FERRAMENTA UTILIZADA**
+- Gemini
 
 ### Etapas em que a IA foi utilizada
 
@@ -400,7 +400,8 @@ A aplicação pode ser executada localmente após a instalação das dependênci
 
 ## 17. Aplicação publicada
 
-**Link da aplicação:** PREENCHER APÓS O DEPLOY
+**Link da aplicação:** 
+https://painel-smads-adesampa-gu9whspwknudhiquhry7td.streamlit.app/
 
 Caso a aplicação publicada não esteja disponível, o projeto pode ser executado localmente seguindo as instruções desta documentação.
 
