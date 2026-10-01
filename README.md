@@ -78,7 +78,7 @@ O painel permite explorar territorialmente uma base demonstrativa de equipamento
 - média do indicador de vulnerabilidade;
 - gráfico de atendimentos por unidade;
 - gráfico relacionando vulnerabilidade territorial e volume de atendimentos;
-- diagnóstico automatizado baseado em regras heurísticas;
+- sinalização automatizada baseada em regra heurística;
 - destaque de unidades localizadas em territórios com maior vulnerabilidade dentro do conjunto demonstrativo.
 
 ---
@@ -147,7 +147,7 @@ Foi construída uma base demonstrativa contendo informações territoriais dos e
 
 A aplicação foi construída em Streamlit, utilizando Pandas para manipulação dos dados e Plotly Express para as visualizações.
 
-### 8.5 Construção do diagnóstico automatizado
+### 8.5 Construção da sinalização automatizada
 
 Foi implementada uma regra heurística para destacar registros com indicador de vulnerabilidade elevado.
 
@@ -157,11 +157,11 @@ No protótipo, valores de:
 
 são classificados como situações de maior atenção territorial.
 
-O valor **8,5 não representa um critério oficial da SMADS ou da Prefeitura de São Paulo**. Trata-se de uma regra demonstrativa adotada exclusivamente para evidenciar o funcionamento do módulo de diagnóstico.
+O valor **8,5 não representa um critério oficial da SMADS ou da Prefeitura de São Paulo**. Trata-se de uma regra demonstrativa adotada exclusivamente para evidenciar o funcionamento do módulo de sinalização.
 
 O volume de atendimento também é comparado à média do recorte selecionado para fornecer uma referência descritiva do comportamento dos registros.
 
-Essas classificações devem ser interpretadas como **apoio exploratório à análise**, e não como diagnóstico definitivo de capacidade, eficiência ou necessidade de expansão de determinado serviço.
+Essas classificações devem ser interpretadas como **apoio exploratório à análise**, e não representa diagnóstico oficial da SMADS de capacidade, eficiência ou necessidade de expansão de determinado serviço.
 
 ---
 
@@ -251,7 +251,7 @@ A versão atual possui algumas limitações importantes:
 - utiliza indicadores simulados para demonstração;
 - não possui dados de fila ou demanda reprimida;
 - não possui informação sobre equipes ou capacidade máxima de atendimento;
-- o diagnóstico automatizado utiliza regras heurísticas simples;
+- a sinalização automatizada utiliza uma regra heurística simples;
 - os resultados não devem ser utilizados isoladamente para decisões administrativas reais.
 
 ---
