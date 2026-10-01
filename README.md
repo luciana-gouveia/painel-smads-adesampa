@@ -115,7 +115,9 @@ A base contém os seguintes campos:
 
 ### Atenção sobre os dados simulados
 
-Este projeto é um **protótipo demonstrativo**.
+Este projeto é um **protótipo demonstrativo**. 
+
+Os valores de `atendimentos_mes` representam um volume mensal simulado por unidade e não estão associados a um mês ou ano real específico. Eles foram definidos exclusivamente para fins demonstrativos, permitindo testar comparações, filtros e visualizações no painel.
 
 Os valores utilizados em `atendimentos_mes` e `indice_vulnerabilidade` são utilizados para demonstrar as funcionalidades analíticas do painel e **não devem ser interpretados como indicadores oficiais atuais da Prefeitura de São Paulo**.
 

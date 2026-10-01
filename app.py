@@ -103,8 +103,9 @@ st.caption(
 st.info(
     "ℹ️ Protótipo demonstrativo: os valores de atendimentos e do índice "
     "de vulnerabilidade utilizados nesta aplicação são simulados para fins "
-    "de demonstração e não representam indicadores operacionais oficiais "
-    "da SMADS."
+    "de demonstração. O volume de atendimentos representa um mês de referência "
+    "fictício, sem correspondência a período real específico, e não representa "
+    "indicador operacional oficial da SMADS."
 )
 
 # Métricas de topo
