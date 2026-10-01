@@ -237,7 +237,7 @@ A aplicação também foi verificada por meio de execução e testes manuais das
 - indicadores;
 - gráficos;
 - mapa;
-- diagnóstico automatizado.
+- sinalização automatizada.
 
 ---
 
@@ -296,7 +296,7 @@ Arquivo principal da aplicação Streamlit. Contém:
 - indicadores;
 - mapa;
 - gráficos;
-- diagnóstico automatizado.
+- sinalização automatizada.
 
 ### `requirements.txt`
 
@@ -411,19 +411,12 @@ Caso a aplicação publicada não esteja disponível, o projeto pode ser executa
 
 Este projeto não pretende substituir ferramentas oficiais da administração pública.
 
-Seu objetivo é demonstrar uma possível aplicação de:
-
-- análise de dados;
-- visualização territorial;
-- desenvolvimento web;
-- automação de análises;
-- apoio à tomada de decisão;
-- uso responsável de inteligência artificial
-
-em um problema relacionado à gestão municipal de São Paulo.
+Seu objetivo é demonstrar como análise de dados, visualização territorial, desenvolvimento web, automação de análises e uso responsável de inteligência artificial podem ser combinados para apoiar a gestão pública municipal e a tomada de decisão no contexto da assistência social em São Paulo.
 
 ---
 
 ## Autoria
+
+**Luciana Gouveia**
 
 Projeto desenvolvido para a **Prova Técnica Prática — Edital de Seleção Pública nº 005/2026 — Assistente II - Dados e IA — ADE SAMPA**.
