@@ -161,7 +161,7 @@ O valor **8,5 não representa um critério oficial da SMADS ou da Prefeitura de 
 
 O volume de atendimento também é comparado à média do recorte selecionado para fornecer uma referência descritiva do comportamento dos registros.
 
-Essas classificações devem ser interpretadas como **apoio exploratório à análise**, e não representa diagnóstico oficial da SMADS de capacidade, eficiência ou necessidade de expansão de determinado serviço.
+Essas classificações devem ser interpretadas como apoio exploratório à análise, e não como diagnóstico oficial da SMADS sobre capacidade, eficiência ou necessidade de expansão de determinado serviço.
 
 ---
 
